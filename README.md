@@ -1,7 +1,7 @@
-## Opa, bão!? 👋
+## Hi! 👋
 
+Working as DevOps Engineer with +12 years of experience in IT. 
 
-Atualmente atuo como DevOops com mais de 5 anos de experiencia, mas ao todo tenho mais de 12 anos de experiencia no mercado de Tecnologia. 
 
 <div style="display: inline_block"><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" align="center" /> 
@@ -25,3 +25,7 @@ Atualmente atuo como DevOops com mais de 5 anos de experiencia, mas ao todo tenh
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" align="center"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vault/vault-original.svg" alt="vault" width="40" height="40" align="center"/> 
 </div>
+
+<br><br>
+
+[:heart: Sponsor](https://github.com/sponsors/hugodeaguiar)
